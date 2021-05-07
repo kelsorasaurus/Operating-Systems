@@ -1,0 +1,2 @@
+Operating System Functions
+1. The operating system provides a user interface, which is how a person interacts with the operating system. GUI is a graphical user interface which means that a user points, clicks, or touches pictures or graphics that represent programs and files to interact with them. A command line interface is when a user needs to give a specific command to an operating system in order to interact with it, and has to enter the command at the command line. The command line interprets the input. 
